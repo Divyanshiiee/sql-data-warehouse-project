@@ -55,22 +55,6 @@ Contains business-ready data prepared for analytical queries and reporting.
 Additional analytical tools may be incorporated as the project develops.
 
 ---
-
-## 📂 Project Structure
-
-```text
-sql-data-warehouse-project/
-│
-├── datasets/
-├── docs/
-├── scripts/
-│   ├── bronze/
-│   ├── silver/
-│   └── gold/
-│
-├── tests/
-│
-└── README.md
 ## 🔄 Project Workflow
 
 1. Collect raw source data
@@ -97,6 +81,23 @@ I'm continuously learning and applying new concepts through hands-on projects.
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [Add your LinkedIn profile]
-- **GitHub:** [Add your GitHub profile]
-- **Email:** [Add your email]
+- **LinkedIn:** https://www.linkedin.com/in/divyanshi-raj-136850303/
+- **GitHub:** https://github.com/Divyanshiiee
+- **Email:** divyasnhir995@gmail.com
+
+
+## 📂 Project Structure
+
+```text
+sql-data-warehouse-project/
+│
+├── datasets/
+├── docs/
+├── scripts/
+│   ├── bronze/
+│   ├── silver/
+│   └── gold/
+│
+├── tests/
+│
+└── README.md
